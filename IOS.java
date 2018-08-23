@@ -6,6 +6,6 @@ class Helloindia
     // Prints "Hello, india" to the terminal window.
     public static void main(String args[])
     {
-        System.out.println("Hello, india");
+        System.out.println("Hello, world");
     }
 }
